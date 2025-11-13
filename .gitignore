@@ -1,0 +1,9 @@
+/vendor/
+*.env
+*.sql
+*.sqlite
+*.php~ 
+.DS_Store
+node_modules/
+.vscode/
+.idea/
